@@ -1,4 +1,6 @@
 # ai-dataanalys-BBA-ta-suniL
 ai-dataanalys-BBA-ta-suniL created by GitHub Classroom
 
-Mitt projekt går ut på att skapa en AI som kan identifiera olika fågelarter. 
+Syftet med mitt projekt är att skapa en AI som kan artbestämma olika fågelarter genom bildigenkänning. 
+
+Jag har skrivit all kod i Python och använt mig av flera bibliotek, som Tensorflow och Keras. 
