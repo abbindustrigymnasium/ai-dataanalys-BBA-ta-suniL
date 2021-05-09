@@ -1,6 +1,19 @@
 # ai-dataanalys-BBA-ta-suniL
-ai-dataanalys-BBA-ta-suniL created by GitHub Classroom
 
-Syftet med mitt projekt är att skapa en AI som kan artbestämma olika fågelarter genom bildigenkänning. 
+Syftet med projektet är att skapa en AI som kan artbestämma olika fåglar genom bildigenkänning. 
 
-Jag har skrivit all kod i Python och använt mig av flera bibliotek, som Tensorflow och Keras. 
+## Bibliotek
+Dessa bibliotek har jag använt i projektet.
+
+### Tensorflow
+Ett bibliotek skapat av Google med källkod för maskininlärning.
+
+### Keras
+Ett bibliotek ger gränssnitt till neurala nätverk. Används tillsammans med Tensorflow. 
+
+### Numpy
+Ett bibliotek som gör det möjligt att lagra data i två- eller tredimensionella matriser. Används för att lagra bildfilernas data.
+
+### Matplotlib
+
+Ett bibliotek som används för att visualisera data, genom att t.ex. plotta det i en graf.
