@@ -1,6 +1,6 @@
 # ai-dataanalys-BBA-ta-suniL
 
-Syftet med projektet är att skapa en AI som kan artbestämma olika fågelarter genom bildigenkänning. 
+Syftet med projektet är att skapa en AI som kan artbestämma olika fåglar genom bildigenkänning. 
 
 ## Bibliotek
 Dessa bibliotek har jag använt i projektet.
